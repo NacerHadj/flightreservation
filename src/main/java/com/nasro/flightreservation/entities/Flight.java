@@ -1,7 +1,7 @@
 package com.nasro.flightreservation.entities;
 
-import java.sql.Timestamp;
 import java.util.Date;
+import java.sql.Timestamp;
 
 import javax.persistence.Entity;
 
